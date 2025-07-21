@@ -75,7 +75,7 @@ export default function Home() {
             preload="auto"
           >
             <source
-              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/3252986-uhd_3840_2160_25fps-KiTQiq6nDdmTRkT5RmFlKWn0azSSLr.mp4"
+              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/3205619-hd_1920_1080_25fps-JaEFbuKxl5FhZPKhQwMgtiAkHocdgp.mp4"
               type="video/mp4"
             />
             Tu navegador no soporta videos HTML5.
