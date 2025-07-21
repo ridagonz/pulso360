@@ -1,7 +1,7 @@
 # Pulso 360 – Web de Encuestas
 
 Sitio web creado con [Next.js](https://nextjs.org/) + [TailwindCSS](https://tailwindcss.com/)  
-Diseño generado con [V0.dev](https://v0.dev) e integrado con componentes de `shadcn/ui`.
+Diseño generados con [V0.dev](https://v0.dev) e integrado con componentes de `shadcn/ui`.
 
 ## 🧩 Estructura del Proyecto
 
